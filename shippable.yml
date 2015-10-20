@@ -17,3 +17,7 @@ install:
 
 script:
  - bundle exec rake
+ 
+notifications:
+  email:
+    varsha@shippable.com
